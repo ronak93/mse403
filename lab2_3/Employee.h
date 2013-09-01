@@ -7,6 +7,4 @@ char * empid;
 }
 @property char *name,*dept,*empid;
 
-- (void) print;
-
 @end

@@ -17,7 +17,12 @@ NSLog(@"EmpID:"); scanf("%s",empid);
 [myObj setName:name];
 [myObj setDept:dept];
 [myObj setEmpid:empid];
-[myObj print];
+
+NSLog(@"Employee Details:");
+NSLog(@"Name:%s",[myObj name]);
+NSLog(@"Dept:%s",[myObj dept]);
+NSLog(@"Id:%s",[myObj empid]);
+[myObj release];
 
 return 0;
 }
