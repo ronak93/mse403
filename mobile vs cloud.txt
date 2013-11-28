@@ -1,0 +1,24 @@
+Mobile Computing  VS Cloud Computing
+---------------------------------------------------------------------
+
+
+Mobile Computing:
+----------------------------
+(1)Mobile computing is human–computer interaction by which a computer is expected to be transported during normal usage. 
+Mobile computing involves mobile communication, mobile hardware, and mobile software.
+
+(2)File strorage on  physical devices like laptop etc.
+
+(3) The application might interact with servers on the Internet to get information  the application needed.
+
+
+
+Cloud Computing:
+--------------------------
+(1)Cloud computing is used to describe a variety of computing concepts that involve a large number 
+of computers connected through a real-time communication network, e.g Internet.
+
+(2)File storage on ‘cloud’ area of internet(virtual).
+
+(3)Cloud computing app works as a communicator with the cloud server whose function
+would be to display the data received by it.
